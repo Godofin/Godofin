@@ -1,6 +1,5 @@
 ### Hi there 👋, Meu nome é Guilherme Lavezzo
 #### Bem vindo ao meu github
-![Bem vindo ao meu github]
 
 Muito prazer, meu nome é Guilherme Henrique Lavezzo, no momento tenho 19 anos, sou solteiro e moro no interior de São Paulo.
 Atualmente, sou estudante do curso Análise e desenvolvimento de sistemas, sou formado como técnico em mecatrônica e trabalho atualmente como Jovem Aprendiz em um E-commerce.
