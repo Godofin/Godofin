@@ -14,11 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="social">
-<a class="fa fa-facebook" href="https://www.facebook.com/NerdiDev" target="_blank"></a>
-<a class="fa fa-instagram" href="https://www.instagram.com/nerd_dev" target="_blank"></a>
-<a class="fa fa-github" href="https://github.com/Godofin" target="_blank"></a>
-<a class="fa fa-linkedin" href="https://www.linkedin.com/in/guilherme-henrique-lavezzo-ads" target="_blank"></a>
-<a class="fa fa-telegram" href="https://t.me/Guilherme_Lavezzo" target="_blank"></a>
-<a class="fa fa-envelope-o" href="mailto:guilherm909088@gmail.com" target="_blank"></a>
-</div>
+
