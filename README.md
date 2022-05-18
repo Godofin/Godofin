@@ -23,12 +23,3 @@
 
 ![Snake animation](https://github.com/Godofin/Godofin/blob/output/github-contribution-grid-snake.svg)
   
-<br />
-<br />
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Godofin/data_science)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="[https://github.com/anuraghazra/anuraghazra.github.io](https://github.com/Godofin/Jogos_Javascript)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
