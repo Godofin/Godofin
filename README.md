@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/Godofin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Godofin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godofin&layout=compact&langs_count=16&theme=tokyonight&exclude_repo=html,css"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godofin&layout=compact&langs_count=16&theme=tokyonight&hide=html,css"/>
   </a>
 </div>
 
