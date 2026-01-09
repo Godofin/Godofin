@@ -22,8 +22,8 @@ Como um eterno aprendiz, estou sempre me desafiando a alcançar algo maior por m
     <td align="center">
       <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GuilhermeHenriqueLavezzo-1293/B3299AC396F08122?sharingId=1BCE3E6684C33F3B"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900 Badge" align="left" width="100  px">
         <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GuilhermeHenriqueLavezzo-1293/D38A6DDA4AF964CA?sharingId=1BCE3E6684C33F3B"><img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AI102 Badge" align="left" width="100  px">
-      <a href="https://credentials.databricks.com/24be6d67-b58d-4b35-a401-c33f12153421#gs.djuhbt"><img src="https://templates.images.credential.net/16509948849242752807044385742422.png" alt="Academy Accreditation - Databricks Lakehouse Fundamentals" align="left" width="100px">
       <a href="https://credentials.databricks.com/59e463fc-a95f-4bd2-82f7-61ff6663ae23#gs.djxeu2t"><img src="https://templates.images.credential.net/16859822715825555912981627624259.png" alt="Academy Accreditation - Generative AI Fundamentals" align="left" width="100px">
+        <a href="https://credentials.databricks.com/e32329ad-9bbf-4d81-97bd-f158b11f9725#acc.nKZE5bvI"><img src="https://templates.images.credential.net/17613126966955079332231945462906.png" alt="Databricks Certified Data Analyst Associate" align="left" width="100px">
     </td>
   </tr>
 </table>
