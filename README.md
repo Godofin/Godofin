@@ -29,14 +29,6 @@ Como um eterno aprendiz, estou sempre me desafiando a alcançar algo maior por m
   </tr>
 </table>
 
-## 📊 GitHub Estatísticas (Para nerds ou cientistas)
-<div>
-  <a href="https://github.com/Godofin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Godofin&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godofin&layout=compact&langs_count=16&theme=tokyonight&hide=html,css"/>
-  </a>
-</div>
-
 ## 📫 Como me encontrar
  
 <div> 
